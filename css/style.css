@@ -1,0 +1,48 @@
+
+        body{
+            background-color:blue ;
+            background-image: url(../img/3086.jpg);
+            background-repeat: no-repeat;
+            background-size: 100%;
+        }
+
+        h1{
+            color:rgb(36, 255, 244) !important;
+            text-decoration: underline;
+            text-align: center;
+            
+        }
+        h1, h2 {
+            color: white;
+            font-family: verdana;
+        }
+
+        h2 {
+            font-size: 30px;
+        }
+
+        p{
+            border:3px dotted white;
+        }
+
+        .negrita{
+            font-weight: bolder;
+        }
+
+        #tituloDiablo {
+            color: crimson;
+            font-style: italic;
+        }
+
+        .flotar_derecha{
+            float:left;
+        }
+
+        .diabloChico{
+            height: 100px;
+        }
+
+        .borde_rojo {
+            border: 2px solid red
+        }
+ 
